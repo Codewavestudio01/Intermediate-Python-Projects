@@ -111,8 +111,7 @@ Your contribution will help others learn and grow!
 **Shees Sultan**  
 Founder & Developer — [CodeWave Studio](https://codewavestudio.space)  
 
-📧 **Email:** codewavestudio0.1@gmail.com  
-📱 **WhatsApp:** +91 9170608277  
+📧 **Email:** codewavestudio0.1@gmail.com 
 🌐 **Website:** [https://codewavestudio.space](https://codewavestudio.space)  
 
 ---
